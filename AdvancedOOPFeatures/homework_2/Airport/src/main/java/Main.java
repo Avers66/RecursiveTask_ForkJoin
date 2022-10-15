@@ -39,13 +39,13 @@ public class Main {
         }
         Long current = new Date().getTime();
         Long current2 = current + 7200000;
-        List<Flight> out = new ArrayList<>();
-        out = allFlight.stream()
+        //List<Flight> out = new ArrayList<>();
+        return   allFlight.stream()
                 .filter((f) -> (f.getDate().getTime() - current > 0) && (current2 - f.getDate().getTime() > 0))
                 .filter((f) -> f.getType() == Flight.Type.DEPARTURE)
                 //.sorted((f1, f2) -> f1.getDate().compareTo(f2.getDate()))
                 .collect(Collectors.toList());
-        return out;
+        //return out;
     }
 
 }
