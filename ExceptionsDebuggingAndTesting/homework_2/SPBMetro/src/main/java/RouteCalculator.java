@@ -25,10 +25,9 @@ public class RouteCalculator {
         }
 
         route = getRouteWithOneConnection(from, to);
-        if (route != null) {
+        if (route != null && !route.isEmpty()) {
             return route;
         }
-
         route = getRouteWithTwoConnections(from, to);
         return route;
     }
@@ -127,7 +126,6 @@ public class RouteCalculator {
         }
 
         ArrayList<Station> route = new ArrayList<>();
-
         List<Station> fromLineStations = from.getLine().getStations();
         List<Station> toLineStations = to.getLine().getStations();
 
@@ -142,6 +140,7 @@ public class RouteCalculator {
                 way.addAll(getRouteOnTheLine(from, srcStation));
                 way.addAll(connectedLineRoute);
                 way.addAll(getRouteOnTheLine(dstStation, to));
+
                 if (route.isEmpty() || route.size() > way.size()) {
                     route.clear();
                     route.addAll(way);
