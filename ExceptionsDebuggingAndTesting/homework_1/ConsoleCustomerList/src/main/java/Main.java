@@ -30,7 +30,12 @@ public class Main {
                     executor.addCustomer(tokens[1]);
                 } catch (ArrayIndexOutOfBoundsException ex){
                     logger.error("Неправильный формат команды ADD");
-                    System.out.println("Неправильный формат команды ADD");}
+                    System.out.println("Неправильный формат команды ADD");
+                    ex.printStackTrace();
+                } catch (IllegalArgumentException ex) {
+                    logger.error("Неправильный формат адреса электронной почты или телефона");
+                    ex.printStackTrace();
+                }
             } else if (tokens[0].equals("list")) {
                 executor.listCustomers();
             } else if (tokens[0].equals("remove")) {
