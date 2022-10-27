@@ -29,11 +29,11 @@ public class Main {
                 try {
                     executor.addCustomer(tokens[1]);
                 } catch (ArrayIndexOutOfBoundsException ex){
-                    logger.error("Неправильный формат команды ADD");
+                    logger.error(ex.getMessage());
                     System.out.println("Неправильный формат команды ADD");
                     ex.printStackTrace();
                 } catch (IllegalArgumentException ex) {
-                    logger.error("Неправильный формат адреса электронной почты или телефона");
+                    logger.error(ex.getMessage());
                     ex.printStackTrace();
                 }
             } else if (tokens[0].equals("list")) {
