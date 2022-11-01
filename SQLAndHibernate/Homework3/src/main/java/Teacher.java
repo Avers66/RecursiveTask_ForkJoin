@@ -50,6 +50,6 @@ public class Teacher {
         this.courseList = courseList;
     }
 
-    @OneToMany(mappedBy = "teacher")
+    @OneToMany(mappedBy = "teacher", fetch = FetchType.LAZY)
     private List<Course> courseList;
 }

@@ -36,7 +36,7 @@ public class Course {
     )
     private List<Student> students;
 
-    @OneToMany(mappedBy = "course")
+    @OneToMany(mappedBy = "course", fetch = FetchType.LAZY)
     private List<Subscription> subscriptions;
 
     public Course() {
