@@ -1,5 +1,7 @@
 import jakarta.persistence.*;
 
+import java.util.List;
+
 @Entity
 @Table(name ="courses")
 public class Course {
@@ -16,8 +18,8 @@ public class Course {
     private courseType type;
     private String description;
 
-    @Column(name = "teacher_id")
-    private int teacherId;
+    @ManyToOne(cascade = CascadeType.ALL)
+    private Teacher teacher;
 
     @Column(name = "students_count")
     private int studentCount;
@@ -26,13 +28,21 @@ public class Course {
     @Column(name = "price_per_hour")
     private float pricePerHour;
 
-    public int getId() {
-        return id;
+
+    @ManyToMany(cascade = CascadeType.ALL)
+    @JoinTable(name = "subscriptions",
+            joinColumns = {@JoinColumn(name = "course_id")},
+            inverseJoinColumns = {@JoinColumn(name = "student_id")}
+    )
+    private List<Student> students;
+
+    @OneToMany(mappedBy = "course")
+    private List<Subscription> subscriptions;
+
+    public Course() {
     }
 
-    public void setId(int id) {
-        this.id = id;
-    }
+
 
     public String getName() {
         return name;
@@ -66,12 +76,12 @@ public class Course {
         this.description = description;
     }
 
-    public int getTeacherId() {
-        return teacherId;
+    public Teacher getTeacher() {
+        return teacher;
     }
 
-    public void setTeacherId(int teacherId) {
-        this.teacherId = teacherId;
+    public void setTeacher(Teacher teacher) {
+        this.teacher = teacher;
     }
 
     public int getStudentCount() {
@@ -98,5 +108,19 @@ public class Course {
         this.pricePerHour = pricePerHour;
     }
 
+    public List<Student> getStudents() {
+        return students;
+    }
 
+    public void setStudents(List<Student> students) {
+        this.students = students;
+    }
+
+    public List<Subscription> getSubscriptions() {
+        return subscriptions;
+    }
+
+    public void setSubscriptions(List<Subscription> subscriptions) {
+        this.subscriptions = subscriptions;
+    }
 }
