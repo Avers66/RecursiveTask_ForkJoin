@@ -6,9 +6,21 @@ https://skillbox.ru/
 
 			https://skillbox.ru/course/profession-accountant/
 
+				https://skillbox.ru/course/accountants-tools/
+
+					https://skillbox.ru/course/financial-management-in-start-ups-dpo/
+
 				https://skillbox.ru/course/profession-accountant-customtariffs/
 
 				https://skillbox.ru/course/1c-work/
+
+					https://skillbox.ru/course/financial-analyst/
+
+					https://skillbox.ru/course/profession-producer-online-courses/
+
+						https://skillbox.ru/course/producer/
+
+						https://skillbox.ru/course/profession-methodist/
 
 			https://skillbox.ru/course/profession-marketplace-manager/
 
@@ -22,28 +34,6 @@ https://skillbox.ru/
 
 			https://skillbox.ru/course/profession-unity-middle/
 
-				https://skillbox.ru/course/profession-game-design/
-
-			https://skillbox.ru/course/python-basic/
-
-				https://skillbox.ru/course/profession-devops-pro/
-
-					https://skillbox.ru/course/coping-with-anxiety-free/
-
-						https://skillbox.ru/course/md/coping-with-anxiety/
-
-						https://skillbox.ru/course/healthy-self-esteem/
-
-						https://skillbox.ru/course/understanding-expressing-managing-emotions/
-
-						https://skillbox.ru/course/recognize-yourself/
-
-							https://skillbox.ru/course/profession-dpo-project-manager/
-
-						https://skillbox.ru/course/partner-relations-long/
-
-						https://skillbox.ru/course/am/cognition-behavior-and-habits/
-
 			https://skillbox.ru/course/java/
 
 			https://skillbox.ru/course/interior-designer-from-scratch-to-pro/
@@ -52,23 +42,11 @@ https://skillbox.ru/
 
 					https://skillbox.ru/course/commercial-design-2/
 
-				https://skillbox.ru/course/profession-designer-interior/
-
-					https://skillbox.ru/course/archicad-25/
-
-				https://skillbox.ru/course/profession-interiordesigner/
-
-					https://skillbox.ru/course/revit-for-interior-designers/
-
-					https://skillbox.ru/course/basics-of-interior-rendering-in-3ds-max/
-
-						https://skillbox.ru/course/profession-3d-visualizer/
-
-					https://skillbox.ru/course/interior-business-course/
-
 			https://skillbox.ru/course/excel-gsheets/
 
 				https://skillbox.ru/course/msoffice/
+
+				https://skillbox.ru/course/profession-dpo-project-manager/
 
 				https://skillbox.ru/course/profession-finance-manager/
 
@@ -88,30 +66,6 @@ https://skillbox.ru/
 
 				https://skillbox.ru/course/profession-java-dpo/
 
-				https://skillbox.ru/course/weblayout/
-
-					https://skillbox.ru/course/frontend-pro-expert/
-
-						https://skillbox.ru/course/javascript/
-
-					https://skillbox.ru/course/profession-fullstack-php/
-
-					https://skillbox.ru/course/frontend-pro/
-
-						https://skillbox.ru/course/frontend-dpo/
-
-							https://skillbox.ru/course/frontend-pro-dpo/
-
-								https://skillbox.ru/course/profession-python-dpo/
-
-						https://skillbox.ru/course/profession-graphdesigner-dpo/
-
-						https://skillbox.ru/course/frontend-developer/
-
-			https://skillbox.ru/course/profession-fullstack-python/
-
-			https://skillbox.ru/course/profession-fullstack-js/
-
 			https://skillbox.ru/course/devops/
 
 			https://skillbox.ru/course/powerbi/
@@ -124,17 +78,25 @@ https://skillbox.ru/
 
 			https://skillbox.ru/course/sql-analysis/
 
-			https://skillbox.ru/course/webdev/
-
-				https://skillbox.ru/course/php-developer-base/
-
-					https://skillbox.ru/course/profession-php-developer/
-
 			https://skillbox.ru/course/linux-os-administration/
 
 			https://skillbox.ru/course/cybersecurity/
 
 		https://skillbox.ru/design/
+
+			https://skillbox.ru/course/profession-interiordesigner/
+
+				https://skillbox.ru/course/revit-for-interior-designers/
+
+				https://skillbox.ru/course/basics-of-interior-rendering-in-3ds-max/
+
+					https://skillbox.ru/course/profession-3d-visualizer/
+
+				https://skillbox.ru/course/archicad-25/
+
+				https://skillbox.ru/course/interior-business-course/
+
+			https://skillbox.ru/course/profession-designer-interior/
 
 			https://skillbox.ru/course/profession-landscape-design/
 
@@ -201,6 +163,8 @@ https://skillbox.ru/
 				https://skillbox.ru/course/personal-investment/
 
 			https://skillbox.ru/course/financial-modeling/
+
+			https://skillbox.ru/course/itproject/
 
 			https://skillbox.ru/course/beauty-industry/
 
@@ -356,6 +320,80 @@ https://skillbox.ru/
 
 	https://skillbox.ru/course/profession-python/
 
+		https://skillbox.ru/course/python-basic/
+
+			https://skillbox.ru/course/profession-cybersecurity/
+
+				https://skillbox.ru/course/weblayout/
+
+					https://skillbox.ru/course/frontend-pro-expert/
+
+						https://skillbox.ru/course/javascript/
+
+						https://skillbox.ru/course/copywriter/
+
+							https://skillbox.ru/course/profession-copywriter-zero-pro/
+
+								https://skillbox.ru/course/copywriting-for-social/
+
+						https://skillbox.ru/course/profession-smm-specialist/
+
+							https://skillbox.ru/course/smm-marketer/
+
+							https://skillbox.ru/course/targetologist/
+
+								https://skillbox.ru/course/FULLSTACK-marketer/
+
+									https://skillbox.ru/course/context-advert/
+
+									https://skillbox.ru/course/dpo-marketplace-manager/
+
+								https://skillbox.ru/course/profession-target/
+
+					https://skillbox.ru/course/profession-fullstack-js/
+
+					https://skillbox.ru/course/profession-fullstack-python/
+
+					https://skillbox.ru/course/profession-fullstack-php/
+
+					https://skillbox.ru/course/frontend-pro/
+
+						https://skillbox.ru/course/frontend-dpo/
+
+							https://skillbox.ru/course/frontend-pro-dpo/
+
+								https://skillbox.ru/course/profession-python-dpo/
+
+						https://skillbox.ru/course/profession-graphdesigner-dpo/
+
+						https://skillbox.ru/course/frontend-developer/
+
+					https://skillbox.ru/course/webdev/
+
+						https://skillbox.ru/course/php-developer-base/
+
+							https://skillbox.ru/course/profession-php-developer/
+
+				https://skillbox.ru/course/bash/
+
+			https://skillbox.ru/course/profession-devops-pro/
+
+				https://skillbox.ru/course/coping-with-anxiety-free/
+
+					https://skillbox.ru/course/md/coping-with-anxiety/
+
+					https://skillbox.ru/course/healthy-self-esteem/
+
+					https://skillbox.ru/course/understanding-expressing-managing-emotions/
+
+					https://skillbox.ru/course/recognize-yourself/
+
+					https://skillbox.ru/course/partner-relations-long/
+
+					https://skillbox.ru/course/am/cognition-behavior-and-habits/
+
+		https://skillbox.ru/course/django-framework/
+
 	https://skillbox.ru/course/profession-graphdesigner/
 
 		https://skillbox.ru/course/illustrator/
@@ -367,26 +405,6 @@ https://skillbox.ru/
 					https://skillbox.ru/course/webdesign-pro/
 
 		https://skillbox.ru/course/graphic-design/
-
-			https://skillbox.ru/course/copywriter/
-
-				https://skillbox.ru/course/profession-copywriter-zero-pro/
-
-					https://skillbox.ru/course/copywriting-for-social/
-
-			https://skillbox.ru/course/profession-smm-specialist/
-
-				https://skillbox.ru/course/smm-marketer/
-
-				https://skillbox.ru/course/targetologist/
-
-					https://skillbox.ru/course/FULLSTACK-marketer/
-
-						https://skillbox.ru/course/context-advert/
-
-						https://skillbox.ru/course/dpo-marketplace-manager/
-
-					https://skillbox.ru/course/profession-target/
 
 		https://skillbox.ru/course/photoshoppro/
 
@@ -404,6 +422,26 @@ https://skillbox.ru/
 
 				https://skillbox.ru/course/character-illustration/
 
+			https://skillbox.ru/course/profession-computer-graphics-artist/
+
+				https://skillbox.ru/course/profession-artist/
+
+				https://skillbox.ru/course/photoshop-for-cg/
+
+				https://skillbox.ru/course/2d-graphics/
+
+				https://skillbox.ru/course/profession-concept-art-pro/
+
+					https://skillbox.ru/course/2d-pro/
+
+				https://skillbox.ru/course/profession-2d-artist/
+
+				https://skillbox.ru/course/3d-artist/
+
+				https://skillbox.ru/course/unreal-engine-4-dev/
+
+				https://skillbox.ru/course/profession-game-design/
+
 		https://skillbox.ru/course/profession-brand-designer/
 
 		https://skillbox.ru/course/logodesign/
@@ -412,39 +450,9 @@ https://skillbox.ru/
 
 		https://skillbox.ru/course/data-analyst/
 
-		https://skillbox.ru/course/profession-producer-online-courses/
-
-			https://skillbox.ru/course/producer/
-
-			https://skillbox.ru/course/profession-methodist/
-
-		https://skillbox.ru/course/financial-analyst/
-
-		https://skillbox.ru/course/accountants-tools/
-
-			https://skillbox.ru/course/financial-management-in-start-ups-dpo/
-
 	https://skillbox.ru/course/3d-generalist/
 
 		https://skillbox.ru/course/zbrush/
-
-		https://skillbox.ru/course/unreal-engine-4-dev/
-
-		https://skillbox.ru/course/profession-computer-graphics-artist/
-
-			https://skillbox.ru/course/profession-artist/
-
-			https://skillbox.ru/course/2d-graphics/
-
-			https://skillbox.ru/course/profession-concept-art-pro/
-
-				https://skillbox.ru/course/2d-pro/
-
-			https://skillbox.ru/course/profession-2d-artist/
-
-		https://skillbox.ru/course/3d-artist/
-
-		https://skillbox.ru/course/photoshop-for-cg/
 
 		https://skillbox.ru/course/3d-modelirovanie/
 
@@ -461,10 +469,6 @@ https://skillbox.ru/
 	https://skillbox.ru/course/profession-java/
 
 	https://skillbox.ru/course/profession-ux/
-
-	https://skillbox.ru/course/profession-cybersecurity/
-
-		https://skillbox.ru/course/bash/
 
 	https://skillbox.ru/course/profession-c-plus-plus/
 
@@ -494,8 +498,6 @@ https://skillbox.ru/
 
 	https://skillbox.ru/course/profession-project-manager-pro/
 
-		https://skillbox.ru/course/itproject/
-
 	https://skillbox.ru/course/hr-manager/
 
 	https://skillbox.ru/course/autodesk-maya/
@@ -507,6 +509,8 @@ https://skillbox.ru/
 		https://skillbox.ru/company/
 
 			https://skillbox.ru/lectoriy/records/
+
+				https://skillbox.ru/payments/
 
 		https://skillbox.ru/career/
 
@@ -1936,6 +1940,8 @@ https://skillbox.ru/
 
 																																																																		https://skillbox.ru/media/management/chto-takoe-matritsa-raci-i-kak-ona-pomogaet-vypolnit-proekt-v-srok-ne-rasteryav-zadachi/
 
+																																																																https://skillbox.ru/media/design/interview-kirill-blumin/
+
 																																																																https://skillbox.ru/media/design/interview-dmitriy-smirnov/
 
 																																																																	https://skillbox.ru/media/design/interview_nikita_prilepskiy/
@@ -2170,6 +2176,8 @@ https://skillbox.ru/
 
 																																																												https://skillbox.ru/media/growth/inache-uydu-k-konkurentam-kak-pravilno-prosit-povysheniya-zarplaty/
 
+																																																												https://skillbox.ru/media/growth/kak-vybrat-proforientologa-i-gde-ego-nayti/
+
 																																																										https://skillbox.ru/media/growth/kak-pravilno-kritikovat-drugikh-i-sebya-rasskazyvaet-psikholog/
 
 																																																										https://skillbox.ru/media/growth/chto-takoe-giperopeka-i-chem-ona-opasna/
@@ -2261,8 +2269,6 @@ https://skillbox.ru/
 																																																						https://skillbox.ru/media/growth/kak-bezopasno-smenit-professiyu-rasskazyvaet-proforientolog/
 
 																																																					https://skillbox.ru/media/growth/koshelyek-ili-zhizn-po-kakim-kriteriyam-vybirat-professiyu/
-
-																																																						https://skillbox.ru/media/growth/kak-vybrat-proforientologa-i-gde-ego-nayti/
 
 																																																						https://skillbox.ru/media/growth/vygoranie-i-potrebnost-v-smene-professii-kak-ne-pereputat-part-1/
 
@@ -2881,8 +2887,6 @@ https://skillbox.ru/
 																		https://skillbox.ru/media/code/on-vam-ne-petukhon-pochemu-enterprayzu-ne-oboytis-bez-python-i-chto-ne-tak-s-java-i-c/
 
 																		https://skillbox.ru/media/code/test-otlichish-li-ty-zen-paytona-ot-lao-tszy/
-
-																			https://skillbox.ru/course/django-framework/
 
 																	https://skillbox.ru/media/code/relokeyt-zhiv-kuda-eshchye-mozhno-uekhat-poka/
 
@@ -3725,8 +3729,6 @@ https://skillbox.ru/
 																							https://skillbox.ru/media/design/kak-v-kino/
 
 																							https://skillbox.ru/media/design/minimalist-design/
-
-																						https://skillbox.ru/media/design/interview-kirill-blumin/
 
 																						https://skillbox.ru/media/design/samye_vostrebovannye_dizaynerskie_professii/
 
@@ -5798,66 +5800,6 @@ https://skillbox.ru/
 
 																																								https://skillbox.ru/media/education/tsitata-nedeli-sushchestvuet-mif-chto-v-kolledzhi-idut-neuspeshnye-deti-net/
 
-																																									https://skillbox.ru/media/education/stalo-izvestno-kak-budut-organizovany-klastery-professionaliteta/
-
-																																										https://skillbox.ru/media/education/stalo-izvestno-kak-budut-sozdavat-obrazovatelnye-programmy-dlya-professionaliteta/
-
-																																										https://skillbox.ru/media/education/340-vuzov-i-kolledzhey-adaptirovali-obrazovatelnye-programmy-k-zaprosam-tsifrovoy-ekonomiki/
-
-																																									https://skillbox.ru/media/education/tsifry-marta-postuplenie-v-vuzy-posle-kolledzha-i-prochie-perspektivy/
-
-																																										https://skillbox.ru/media/education/razvitie-vuzov-na-kakie-napravleniya-deyatelnosti-im-ne-khvataet-sredstv-bolshe-vsego/
-
-																																											https://skillbox.ru/media/education/rektor-rankhigs-nazval-tri-novykh-trenda-v-sfere-vysshego-obrazovaniya/
-
-																																												https://skillbox.ru/media/education/za-16-let-rossiyane-izmenili-predstavlenie-o-tom-chto-takoe-khoroshee-obrazovanie/
-
-																																											https://skillbox.ru/media/education/ne-tolko-velikiy-uchyenyy-no-i-superrektor-lobachevskiy-kak-upravlenets/
-
-																																										https://skillbox.ru/media/education/tsifry-mesyatsa-kak-ischezayut-molodye-pedagogi/
-
-																																											https://skillbox.ru/media/education/tsitaty-mesyatsa-pro-regulirovanie-edtech-onlayn-i-tsel-vysshego-obrazovaniya/
-
-																																												https://skillbox.ru/media/education/roditeli-shkolnikov-snova-rasskazali-kak-distant-povliyal-na-obrazovanie/
-
-																																													https://skillbox.ru/media/education/eksperty-nazvali-polozhitelnyy-effekt-distanta-dlya-podrostkov-te-stali-bolshe-spat/
-
-																																														https://skillbox.ru/media/education/distantsionnoe-obuchenie-uvelichivaet-risk-vozniknoveniya-depressii-u-shkolnikov/
-
-																																														https://skillbox.ru/media/education/19-roditeley-vyskazalis-za-perenos-nachala-urokov-v-shkolakh-na-bolee-pozdnee-vremya/
-
-																																															https://skillbox.ru/media/education/v-kitae-roditelyam-khotyat-zakonodatelno-zapretit-peregruzhat-detey-uchyeboy/
-
-																																																https://skillbox.ru/media/education/v-shkolakh-kolledzhakh-i-universitetakh-kitaya-budut-izuchat-mysli-si-tszinpina/
-
-																																													https://skillbox.ru/media/education/v-tass-podschitali-kakaya-dolya-regionov-perevodit-shkoly-i-kolledzhi-na-distant/
-
-																																													https://skillbox.ru/media/education/voz-prizvala-ne-zakryvat-shkoly-izza-rosta-zabolevaemosti-koronavirusom/
-
-																																														https://skillbox.ru/media/education/voz-yunesko-i-yunisef-schitayut-chto-v-shkolakh-nuzhno-provodit-analizy-na-koronavirus/
-
-																																												https://skillbox.ru/media/education/pyat-vuzov-sozdali-konsortsium-po-razvitiyu-soft-skills/
-
-																																													https://skillbox.ru/media/education/mintsifry-i-universitet-innopolis-sozdali-konsortsium-obrazovatelnykh-organizatsiy/
-
-																																												https://skillbox.ru/media/education/tsitata-nedeli-tsifrovye-kompetentsii-obyazatelny-dlya-vypusknikov-vsekh-napravleniy/
-
-																																													https://skillbox.ru/media/education/v-rossii-poyavilsya-servis-nezavisimoy-otsenki-tsifrovykh-kompetentsiy/
-
-																																														https://skillbox.ru/media/education/zapushchen-portal-po-povysheniyu-tsifrovoy-gramotnosti/
-
-																																														https://skillbox.ru/media/education/obuchenie_tsifrovym_tekhnologiyam_nachnyetsya_s_detskogo_sada/
-
-																																														https://skillbox.ru/media/education/uchitelya-roditeli-i-deti-podderzhivayut-ideyu-vvesti-v-shkolakh-uroki-tsifrovoy-gramotnosti/
-
-																																												https://skillbox.ru/media/education/nazvana-dolya-vuzov-pereshedshikh-na-distant-izza-kovida/
-
-																																													https://skillbox.ru/media/education/v-minobrnauki-nazvali-dolyu-privitykh-ot-koronavirusa-studentov-i-sotrudnikov-vuzov/
-
-																																											https://skillbox.ru/media/education/chto-posmotret-i-poslushat-ob-obrazovanii-pro-rynochnye-perspektivy-i-vechnye-tsennosti/
-
-																																												https://skillbox.ru/media/education/kak-sozdat-shkolnuy-musey/
-
 																																									https://skillbox.ru/media/education/kakoy-kolledzh-vybrat-predstavlen-novyy-navigator-dlya-abiturientov/
 
 																																							https://skillbox.ru/media/education/rossiyane-nazvali-yazyki-kotorye-schitayut-poleznymi-dlya-svoey-karery-i-dlya-budushchego-detey/
@@ -5938,6 +5880,64 @@ https://skillbox.ru/
 
 																																					https://skillbox.ru/media/education/posle-shkoly-v-kolledzh-vygoden-li-etot-variant-s-tochki-zreniya-trudoustroystva/
 
+																																						https://skillbox.ru/media/education/tsifry-marta-postuplenie-v-vuzy-posle-kolledzha-i-prochie-perspektivy/
+
+																																							https://skillbox.ru/media/education/stalo-izvestno-kak-budut-sozdavat-obrazovatelnye-programmy-dlya-professionaliteta/
+
+																																								https://skillbox.ru/media/education/340-vuzov-i-kolledzhey-adaptirovali-obrazovatelnye-programmy-k-zaprosam-tsifrovoy-ekonomiki/
+
+																																							https://skillbox.ru/media/education/stalo-izvestno-kak-budut-organizovany-klastery-professionaliteta/
+
+																																							https://skillbox.ru/media/education/razvitie-vuzov-na-kakie-napravleniya-deyatelnosti-im-ne-khvataet-sredstv-bolshe-vsego/
+
+																																								https://skillbox.ru/media/education/rektor-rankhigs-nazval-tri-novykh-trenda-v-sfere-vysshego-obrazovaniya/
+
+																																									https://skillbox.ru/media/education/za-16-let-rossiyane-izmenili-predstavlenie-o-tom-chto-takoe-khoroshee-obrazovanie/
+
+																																								https://skillbox.ru/media/education/ne-tolko-velikiy-uchyenyy-no-i-superrektor-lobachevskiy-kak-upravlenets/
+
+																																							https://skillbox.ru/media/education/tsifry-mesyatsa-kak-ischezayut-molodye-pedagogi/
+
+																																								https://skillbox.ru/media/education/tsitaty-mesyatsa-pro-regulirovanie-edtech-onlayn-i-tsel-vysshego-obrazovaniya/
+
+																																									https://skillbox.ru/media/education/roditeli-shkolnikov-snova-rasskazali-kak-distant-povliyal-na-obrazovanie/
+
+																																										https://skillbox.ru/media/education/eksperty-nazvali-polozhitelnyy-effekt-distanta-dlya-podrostkov-te-stali-bolshe-spat/
+
+																																											https://skillbox.ru/media/education/distantsionnoe-obuchenie-uvelichivaet-risk-vozniknoveniya-depressii-u-shkolnikov/
+
+																																											https://skillbox.ru/media/education/19-roditeley-vyskazalis-za-perenos-nachala-urokov-v-shkolakh-na-bolee-pozdnee-vremya/
+
+																																												https://skillbox.ru/media/education/v-kitae-roditelyam-khotyat-zakonodatelno-zapretit-peregruzhat-detey-uchyeboy/
+
+																																													https://skillbox.ru/media/education/v-shkolakh-kolledzhakh-i-universitetakh-kitaya-budut-izuchat-mysli-si-tszinpina/
+
+																																										https://skillbox.ru/media/education/v-tass-podschitali-kakaya-dolya-regionov-perevodit-shkoly-i-kolledzhi-na-distant/
+
+																																										https://skillbox.ru/media/education/voz-prizvala-ne-zakryvat-shkoly-izza-rosta-zabolevaemosti-koronavirusom/
+
+																																											https://skillbox.ru/media/education/voz-yunesko-i-yunisef-schitayut-chto-v-shkolakh-nuzhno-provodit-analizy-na-koronavirus/
+
+																																									https://skillbox.ru/media/education/pyat-vuzov-sozdali-konsortsium-po-razvitiyu-soft-skills/
+
+																																										https://skillbox.ru/media/education/mintsifry-i-universitet-innopolis-sozdali-konsortsium-obrazovatelnykh-organizatsiy/
+
+																																									https://skillbox.ru/media/education/tsitata-nedeli-tsifrovye-kompetentsii-obyazatelny-dlya-vypusknikov-vsekh-napravleniy/
+
+																																										https://skillbox.ru/media/education/v-rossii-poyavilsya-servis-nezavisimoy-otsenki-tsifrovykh-kompetentsiy/
+
+																																											https://skillbox.ru/media/education/zapushchen-portal-po-povysheniyu-tsifrovoy-gramotnosti/
+
+																																											https://skillbox.ru/media/education/obuchenie_tsifrovym_tekhnologiyam_nachnyetsya_s_detskogo_sada/
+
+																																											https://skillbox.ru/media/education/uchitelya-roditeli-i-deti-podderzhivayut-ideyu-vvesti-v-shkolakh-uroki-tsifrovoy-gramotnosti/
+
+																																									https://skillbox.ru/media/education/nazvana-dolya-vuzov-pereshedshikh-na-distant-izza-kovida/
+
+																																										https://skillbox.ru/media/education/v-minobrnauki-nazvali-dolyu-privitykh-ot-koronavirusa-studentov-i-sotrudnikov-vuzov/
+
+																																								https://skillbox.ru/media/education/chto-posmotret-i-poslushat-ob-obrazovanii-pro-rynochnye-perspektivy-i-vechnye-tsennosti/
+
 																																						https://skillbox.ru/media/education/stalo-izvestno-v-kakikh-kolledzhakh-i-vuzakh-zarabotaet-professionalitet/
 
 																																						https://skillbox.ru/media/education/stalo-izvestno-kakoy-konkurs-v-kolledzhi-i-kakie-napravleniya-samye-populyarnye/
@@ -6015,6 +6015,8 @@ https://skillbox.ru/
 																																					https://skillbox.ru/course/educational-methodist-new-2/
 
 																																			https://skillbox.ru/media/education/obrazovatelnaya-urbanistika-i-pedagogissledovatel-gorodskoy-sredy/
+
+																																				https://skillbox.ru/media/education/kak-sozdat-shkolnuy-musey/
 
 																																			https://skillbox.ru/media/education/valdorfskaya-pedagogika-eto-deystvitelno-pedagogika-ili-sektantstvo/
 
@@ -6116,8 +6118,6 @@ https://skillbox.ru/
 
 																																							https://skillbox.ru/media/education/na-yuge-rossii-poyavitsya-ekosistema-matematicheskogo-obrazovaniya/
 
-																																								https://skillbox.ru/media/education/sotrudnichaya-s-vuzami-kompaniya-razvivaet-ekosistemu/
-
 																																							https://skillbox.ru/media/education/neobychnaya-praktika-chto-takoe-matematicheskaya-genealogiya-i-zachem-ona-nuzhna/
 
 																																			https://skillbox.ru/media/education/knizhnaya-polka-tochka-opory-viktor-shatalov/
@@ -6186,20 +6186,6 @@ https://skillbox.ru/
 
 																																						https://skillbox.ru/media/education/sinkhronnoe-i-asinkhronnoe-obuchenie-chto-eto-takoe-i-pochemu-vazhno-ponimat-ikh-razlichiya/
 
-																																							https://skillbox.ru/media/corptrain/8-neochevidnykh-prichin-po-kotorym-brosayut-asinkhronnoe-obuchenie/
-
-																																								https://skillbox.ru/media/education/psikhologicheskie-tekhniki-dlya-tekh-komu-trevoga-meshaet-uchitsya-ili-rabotat/
-
-																																									https://skillbox.ru/media/education/starayus-dat-uchenikam-tot-uroven-podderzhki-i-prinyatiya-na-kotorye-ya-sam-sposoben/
-
-																																										https://skillbox.ru/media/education/otkryty-goryachie-linii-psikhologicheskoy-pomoshchi-dlya-studentov-i-shkolnikov/
-
-																																											https://skillbox.ru/media/education/uchyenye-obnaruzhili-svyaz-mezhdu-bullingom-i-motivatsiey-k-uchyebe/
-
-																																									https://skillbox.ru/media/education/kak-uchitelyu-spravitsya-so-stressom-sovety-psikhologa-i-tyutora/
-
-																																									https://skillbox.ru/media/education/trevoga-prepodavatelya-silno-skazyvaetsya-na-trevoge-studentov/
-
 																																							https://skillbox.ru/media/education/kak-organizovat-netvorking-na-onlaynkurse/
 
 																																								https://skillbox.ru/media/education/kak-s-pomoshchyu-mentimeter-dobavit-v-obuchenie-interaktivnost/
@@ -6213,12 +6199,6 @@ https://skillbox.ru/
 																																				https://skillbox.ru/media/education/formalnoe-neformalnoe-i-informalnoe-obrazovanie-v-chyem-raznitsa/
 
 																																				https://skillbox.ru/media/education/mook-mooc-ili-massovye-otkrytye-onlaynkursy-i-ikh-klassifikatsiya/
-
-																																					https://skillbox.ru/media/education/kak-privlech-studentov-v-magistraturu-i-chto-znachit-upakovat-magisterskuyu-programmu/
-
-																																						https://skillbox.ru/media/education/tsitaty-nedeli-eto-ne-znachit-chto-seychas-my-dolzhny-vsye-unichtozhit-dotla/
-
-																																						https://skillbox.ru/media/education/4-idei-kak-razvivat-dopolnitelnoe-professionalnoe-obrazovanie-v-vuze/
 
 																																					https://skillbox.ru/media/education/kak-prepodavateli-vuzov-otnosyatsya-k-ispolzovaniyu-mook-v-obrazovatelnom-protsesse/
 
@@ -6236,9 +6216,29 @@ https://skillbox.ru/
 
 																																							http:// https://skillbox.ru/media/base/chto-takoe-problembased-learning-ili-problemnoorientirovannoe-obuchenie/
 
+																																					https://skillbox.ru/media/corptrain/8-neochevidnykh-prichin-po-kotorym-brosayut-asinkhronnoe-obuchenie/
+
+																																						https://skillbox.ru/media/education/psikhologicheskie-tekhniki-dlya-tekh-komu-trevoga-meshaet-uchitsya-ili-rabotat/
+
+																																							https://skillbox.ru/media/education/starayus-dat-uchenikam-tot-uroven-podderzhki-i-prinyatiya-na-kotorye-ya-sam-sposoben/
+
+																																								https://skillbox.ru/media/education/otkryty-goryachie-linii-psikhologicheskoy-pomoshchi-dlya-studentov-i-shkolnikov/
+
+																																									https://skillbox.ru/media/education/uchyenye-obnaruzhili-svyaz-mezhdu-bullingom-i-motivatsiey-k-uchyebe/
+
+																																							https://skillbox.ru/media/education/kak-uchitelyu-spravitsya-so-stressom-sovety-psikhologa-i-tyutora/
+
+																																							https://skillbox.ru/media/education/trevoga-prepodavatelya-silno-skazyvaetsya-na-trevoge-studentov/
+
 																																			https://skillbox.ru/media/education/chto-takoe-didaktika-i-kak-ona-razvivaetsya/
 
 																																		https://skillbox.ru/media/education/vykhod-iz-bolonskoy-sistemy-predstaviteli-vlastey-ozvuchili-chem-ona-nekhorosha/
+
+																																			https://skillbox.ru/media/education/kak-privlech-studentov-v-magistraturu-i-chto-znachit-upakovat-magisterskuyu-programmu/
+
+																																				https://skillbox.ru/media/education/tsitaty-nedeli-eto-ne-znachit-chto-seychas-my-dolzhny-vsye-unichtozhit-dotla/
+
+																																				https://skillbox.ru/media/education/4-idei-kak-razvivat-dopolnitelnoe-professionalnoe-obrazovanie-v-vuze/
 
 																																https://skillbox.ru/media/education/pravila-opredeleniya-pobediteley-olimpiad-shkolnikov-izmenili/
 
@@ -6348,10 +6348,6 @@ https://skillbox.ru/
 
 																																		https://skillbox.ru/media/education/chto-takoe-gibridnoe-obuchenie-i-v-chyem-ego-osobennost/
 
-																																		https://skillbox.ru/media/corptrain/trendy-i-vyzovy-korporativnogo-obucheniya-mneniya-tdspetsialistov/
-
-																																		https://skillbox.ru/media/corptrain/7-insaytov-o-tom-chego-na-samom-dele-khotyat-sotrudniki-ot-korporativnogo-obucheniya/
-
 																															https://skillbox.ru/media/corptrain/tsifrovizatsiya-korporativnogo-obucheniya-mify-i-realnost/
 
 																																https://skillbox.ru/media/education/smeshannoe-obuchenie-ili-blended-learning-chto-eto-takoe/
@@ -6360,9 +6356,13 @@ https://skillbox.ru/
 
 																																	https://skillbox.ru/media/education/matritsa-picrat-chto-eto-i-kak-ona-pomozhet-sdelat-smeshannoe-obuchenie-effektivnee/
 
+																																https://skillbox.ru/media/corptrain/trendy-i-vyzovy-korporativnogo-obucheniya-mneniya-tdspetsialistov/
+
 																																https://skillbox.ru/media/corptrain/6-samykh-perspektivnykh-tekhnologiy-dlya-korporativnogo-obucheniya/
 
 																																https://skillbox.ru/media/corptrain/kak-sozdavat-kontent-dlya-distantsionnogo-korporativnogo-obucheniya-obzor-vozmozhnostey/
+
+																																https://skillbox.ru/media/corptrain/7-insaytov-o-tom-chego-na-samom-dele-khotyat-sotrudniki-ot-korporativnogo-obucheniya/
 
 																																https://skillbox.ru/media/corptrain/edtechservisy-prevrashchayutsya-v-zoopark-resheniy/
 
@@ -6406,22 +6406,6 @@ https://skillbox.ru/
 
 																															https://skillbox.ru/media/education/tsitata-nedeli-olga-vasileva-o-veroyatnosti-otmeny-ege/
 
-																																https://skillbox.ru/media/education/v-gosdume-snova-vyskazalis-za-otmenu-ege/
-
-																																https://skillbox.ru/media/education/za-13-let-dolya-storonnikov-ege-umenshilas-pochti-vdvoe/
-
-																																	https://skillbox.ru/media/education/glava-rosobrnadzora-zaveril-chto-vo-vremya-ege-nikakikh-tekhnicheskikh-sboev-ne-budet/
-
-																																		https://skillbox.ru/media/education/predstavlena-obnovlyennaya-interaktivnaya-karta-kachestva-shkolnogo-obrazovaniya/
-
-																																		https://skillbox.ru/media/education/ege2022-provedut-dazhe-esli-rossiyu-otklyuchat-ot-interneta-i-bumagi-khvatit/
-
-																																			https://skillbox.ru/media/education/rospotrebnadzor-otmenil-nekotorye-antikovidnye-ogranicheniya-v-shkolakh/
-
-																																		https://skillbox.ru/media/education/postupayushchie-na-platnoe-otdelenie-smogut-polzovatsya-servisom-postuplenie-v-vuz-onlayn/
-
-																																	https://skillbox.ru/media/education/v-rosobrnadzore-rasskazali-pochemu-vvodit-peresdachu-ege-v-techenie-mesyatsa-ne-imeet-smysla/
-
 																															https://skillbox.ru/media/education/pravitelstvo-predstavilo-statistiku-dopolnitelnogo-profobucheniya-rossiyan/
 
 																																https://skillbox.ru/media/education/molodye-sotrudniki-sklonny-brosat-rabotu-esli-perestayut-uchitsya-novomu/
@@ -6434,7 +6418,25 @@ https://skillbox.ru/
 
 																														https://skillbox.ru/media/education/glava-rosobrnadzora-prognoziruet-snizhenie-srednego-balla-po-vsem-predmetam-ege-v-etom-godu/
 
+																															https://skillbox.ru/media/education/v-gosdume-snova-vyskazalis-za-otmenu-ege/
+
+																																https://skillbox.ru/media/education/za-13-let-dolya-storonnikov-ege-umenshilas-pochti-vdvoe/
+
+																																	https://skillbox.ru/media/education/glava-rosobrnadzora-zaveril-chto-vo-vremya-ege-nikakikh-tekhnicheskikh-sboev-ne-budet/
+
+																																		https://skillbox.ru/media/education/predstavlena-obnovlyennaya-interaktivnaya-karta-kachestva-shkolnogo-obrazovaniya/
+
+																																		https://skillbox.ru/media/education/ege2022-provedut-dazhe-esli-rossiyu-otklyuchat-ot-interneta-i-bumagi-khvatit/
+
+																																			https://skillbox.ru/media/education/rospotrebnadzor-otmenil-nekotorye-antikovidnye-ogranicheniya-v-shkolakh/
+
+																																	https://skillbox.ru/media/education/v-rosobrnadzore-rasskazali-pochemu-vvodit-peresdachu-ege-v-techenie-mesyatsa-ne-imeet-smysla/
+
+																															https://skillbox.ru/media/education/postupayushchie-na-platnoe-otdelenie-smogut-polzovatsya-servisom-postuplenie-v-vuz-onlayn/
+
 																												https://skillbox.ru/media/education/utverzhdeny-kvoty-priyema-na-tselevoe-obuchenie-v-vuzakh-na-2022-god/
+
+																													https://skillbox.ru/media/education/sotrudnichaya-s-vuzami-kompaniya-razvivaet-ekosistemu/
 
 																											https://skillbox.ru/media/education/utverzhdeny-akkreditatsionnye-pokazateli-dlya-shkol-i-kolledzhey/
 
@@ -6552,39 +6554,39 @@ https://skillbox.ru/
 
 														https://skillbox.ru/media/business/kuda-uekhat-rabotat-udalyenno-6-samykh-perspektivnykh-napravleniy/
 
-														https://skillbox.ru/media/business/chto-budet-s-kreditami-i-kak-zhit-bez-swift-otvechaem-na-volnuyushchie-voprosy/
-
-															https://skillbox.ru/media/business/kak-podgotovitsya-k-dollaru-po-100/
-
-																https://skillbox.ru/media/business/chto-delat-s-rublyami-otvechayut-eksperty/
-
-															https://skillbox.ru/media/business/esli-na-ulitse-revolyutsiya-voyna-besporyadki-kuda-devat-dengi-v-ozhidanii-potryaseniy/
-
-															https://skillbox.ru/media/business/kak-tsifrovizatsiya-menyaet-rynok-zhkkh/
-
-																https://skillbox.ru/course/product-marketing-manager/
-
-															https://skillbox.ru/media/business/6-sposobov-udalitsya-iz-interneta/
-
-																https://skillbox.ru/media/business/sotsseti-znayut-o-vas-vsye-test-a-chto-ob-etom-znaete-vy/
-
-																https://skillbox.ru/media/marketing/rynok-reklamy-kak-ego-izmenili-novye-pravila-privatnosti-ot-apple/
-
-																https://skillbox.ru/media/marketing/kak-reshit-glavnye-problemy-rynka-tsifrovoy-reklamy/
-
-																	https://skillbox.ru/media/marketing/ubyet_li_google_targeting/
-
-																https://skillbox.ru/media/business/google-tayno-sgovorilsya-s-facebook/
-
-																	https://skillbox.ru/media/marketing/reklama-na-youtube-kids/
-
-																	https://skillbox.ru/media/marketing/v-chyem-obvinyayut-facebook-i-k-chemu-eto-mozhet-privesti/
-
-																https://skillbox.ru/course/cx-researches/
-
 													https://skillbox.ru/media/business/ishchem-alternativu-populyarnym-inostrannym-servisam-avtomobilyam-gadzhetam/
 
 												https://skillbox.ru/media/business/kak-biznesu-proderzhatsya-na-plavu-vo-vremya-sanktsiy/
+
+													https://skillbox.ru/media/business/chto-delat-s-rublyami-otvechayut-eksperty/
+
+														https://skillbox.ru/media/business/kak-tsifrovizatsiya-menyaet-rynok-zhkkh/
+
+															https://skillbox.ru/course/product-marketing-manager/
+
+														https://skillbox.ru/media/business/6-sposobov-udalitsya-iz-interneta/
+
+															https://skillbox.ru/media/business/sotsseti-znayut-o-vas-vsye-test-a-chto-ob-etom-znaete-vy/
+
+															https://skillbox.ru/media/marketing/rynok-reklamy-kak-ego-izmenili-novye-pravila-privatnosti-ot-apple/
+
+															https://skillbox.ru/media/marketing/kak-reshit-glavnye-problemy-rynka-tsifrovoy-reklamy/
+
+																https://skillbox.ru/media/marketing/ubyet_li_google_targeting/
+
+															https://skillbox.ru/media/business/google-tayno-sgovorilsya-s-facebook/
+
+																https://skillbox.ru/media/marketing/reklama-na-youtube-kids/
+
+																https://skillbox.ru/media/marketing/v-chyem-obvinyayut-facebook-i-k-chemu-eto-mozhet-privesti/
+
+															https://skillbox.ru/course/cx-researches/
+
+													https://skillbox.ru/media/business/chto-budet-s-kreditami-i-kak-zhit-bez-swift-otvechaem-na-volnuyushchie-voprosy/
+
+													https://skillbox.ru/media/business/kak-podgotovitsya-k-dollaru-po-100/
+
+													https://skillbox.ru/media/business/esli-na-ulitse-revolyutsiya-voyna-besporyadki-kuda-devat-dengi-v-ozhidanii-potryaseniy/
 
 													https://skillbox.ru/course/corporate-finance-planning-and-analysis/
 
@@ -6661,6 +6663,4 @@ https://skillbox.ru/
 		https://skillbox.ru/jobs/
 
 		https://skillbox.ru/teachers/
-
-		https://skillbox.ru/payments/
 
