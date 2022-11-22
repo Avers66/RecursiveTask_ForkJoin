@@ -15,10 +15,10 @@ public class Main {
         String rootSite = "https://skillbox.ru/";
         //String rootSite = "https://lenta.ru/";
         int level = 0; // recursion level
-        String root = rootSite; // Domain to scan
+        String domain = rootSite; // Domain to scan
         set.add(rootSite); //repository of original links
         long start = System.currentTimeMillis();
-        HyperLinksCollector collector = new HyperLinksCollector(rootSite, level, root);
+        HyperLinksCollector collector = new HyperLinksCollector(rootSite, level, domain);
         pool = new ForkJoinPool();
         pool.execute(collector);
         while (!collector.isDone()) {showParametersForkJoinPool();}

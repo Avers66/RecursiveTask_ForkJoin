@@ -12,13 +12,13 @@ public class HyperLinksCollector extends RecursiveTask<List<String>> {
 
     private String hyperLink;
     private int level;
-    private String root; // Domain to scan
+    private String domain; // Domain to scan
     private int recurseDepth = 40; //recursion depth limiter
 
-    public HyperLinksCollector(String hyperLink, int level, String root) {
+    public HyperLinksCollector(String hyperLink, int level, String domain) {
         this.hyperLink = hyperLink;
         this.level = level;
-        this.root = root;
+        this.domain = domain;
     }
 
     @Override
@@ -36,12 +36,12 @@ public class HyperLinksCollector extends RecursiveTask<List<String>> {
         for (Element e : links) {
             String hyperLinkChild = e.attr("href");
             //if (level > recurseDepth) break; //recursion depth limiter
-            if (hyperLinkChild.indexOf(root) >= 0 && hyperLinkChild.endsWith("/")) { //hyperlink is a child
+            if (hyperLinkChild.indexOf(domain) >= 0 && hyperLinkChild.endsWith("/")) { //hyperlink is a child
                 if (!Main.set.add(hyperLinkChild)) continue;// skip it if the link has already been saved earlier
                 try {
                     Thread.sleep(150); //delay before opening a hyperlink
                 } catch (InterruptedException ex) { ex.printStackTrace();}
-                HyperLinksCollector task = new HyperLinksCollector(hyperLinkChild, level + 1, root);
+                HyperLinksCollector task = new HyperLinksCollector(hyperLinkChild, level + 1, domain);
                 task.fork();
                 tasks.add(task);
                 //System.out.println(hyperLinkChild + " " + level); //debugging
