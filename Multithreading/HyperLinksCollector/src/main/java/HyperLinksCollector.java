@@ -1,3 +1,4 @@
+import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -8,46 +9,80 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.RecursiveTask;
 
+
 public class HyperLinksCollector extends RecursiveTask<List<String>> {
 
     private String hyperLink;
     private int level;
-    private String domain; // Domain to scan
-    private int recurseDepth = 40; //recursion depth limiter
+    private int recursionLevel = 200;
+    private int pageNumberLimit = 1000;
 
-    public HyperLinksCollector(String hyperLink, int level, String domain) {
+    private Connection session;
+
+
+    public HyperLinksCollector(String hyperLink, int level, Connection session) {
         this.hyperLink = hyperLink;
         this.level = level;
-        this.domain = domain;
+        this.session = session;
+
     }
 
     @Override
     protected List<String> compute() {
         List<String> list = new ArrayList<>();
-        List<HyperLinksCollector> tasks = new ArrayList<>();
         list.add("\t".repeat(level) + hyperLink + "\n");
+        if (level >= recursionLevel) return list;
+        if (Main.set.size() > pageNumberLimit) return list;
+        List<HyperLinksCollector> tasksList = new ArrayList<>();
+
 //ToDo найти гиперссылки
         Document doc = null;
+        String responseMessage = "";
+        String responseBody = "";
+        int responseCode = 0;
         try {
-            doc = Jsoup.connect(hyperLink).timeout(3000).get();
-        } catch (IOException ex) {
-            System.out.println("Страница недоступна " + hyperLink); return list;} // the page is unavailable
+            Connection connection = session.newRequest().url(hyperLink);
+            Connection.Method get = Connection.Method.GET;
+            connection.method(get).execute();
+            //doc = connection.get();
+            responseBody = connection.response().body();
+            responseMessage = connection.response().statusMessage();
+            responseCode = connection.response().statusCode();
+            doc = Jsoup.parse(responseBody);
+
+
+            //IOException, SocketTimeoutException,UnsupportedMimeTypeException,
+            //HttpStatusException, MalformedURLException
+        } catch (Exception ex) {
+            responseMessage = ex.getMessage();
+            System.out.println(responseMessage + " Страница недоступна " + hyperLink); return list;
+        }
         Elements links = doc.select("a");
         for (Element e : links) {
             String hyperLinkChild = e.attr("href");
-            //if (level > recurseDepth) break; //recursion depth limiter
-            if (hyperLinkChild.indexOf(domain) >= 0 && hyperLinkChild.endsWith("/")) { //hyperlink is a child
-                if (!Main.set.add(hyperLinkChild)) continue;// skip it if the link has already been saved earlier
+            if (hyperLinkChild.matches("/.+[^#](/||.html)")){
+                  hyperLinkChild = Main.domain + hyperLinkChild.substring(1);
+
+            }
+            boolean term = hyperLinkChild.endsWith("/") || hyperLinkChild.endsWith(".html");
+            if (hyperLinkChild.indexOf(Main.domain) >= 0 && term) {
+                if (!Main.set.add(hyperLinkChild)) continue;
                 try {
-                    Thread.sleep(150); //delay before opening a hyperlink
+                    Thread.sleep(150);
                 } catch (InterruptedException ex) { ex.printStackTrace();}
-                HyperLinksCollector task = new HyperLinksCollector(hyperLinkChild, level + 1, domain);
+                if (Main.set.size() == 500) System.out.println(responseBody);
+                System.out.println(hyperLinkChild + " "
+                        + responseCode + " "
+                        + responseMessage + " уровень_"
+                        + level + " "
+                        + Main.set.size() + "_стр. "
+                        + responseBody.length() + "_байт"); //debugging
+                HyperLinksCollector task = new HyperLinksCollector(hyperLinkChild, level + 1, session);
                 task.fork();
-                tasks.add(task);
-                //System.out.println(hyperLinkChild + " " + level); //debugging
+                tasksList.add(task);
             }
         }
-        for (HyperLinksCollector item : tasks) {
+        for (HyperLinksCollector item : tasksList) {
             list.addAll(item.join());
         }
         return list; //list of links on the current page
