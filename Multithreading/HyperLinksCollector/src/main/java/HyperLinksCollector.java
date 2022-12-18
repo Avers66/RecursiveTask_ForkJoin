@@ -15,7 +15,7 @@ public class HyperLinksCollector extends RecursiveTask<List<String>> {
     private String hyperLink;
     private int level;
     private int recursionLevel = 200;
-    private int pageNumberLimit = 1000;
+    private int pageNumberLimit = 1000; //limit
 
     private Connection session;
 
